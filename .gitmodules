@@ -1,3 +1,11 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/MahrezBH/mcm-backend.git
+
+[submodule "playbook"]
+	path = backend
+	url = https://github.com/MahrezBH/mcm-playbook.git
+
+[submodule "frontend"]
+	path = backend
+	url = https://github.com/MahrezBH/mcm-frontend.git
