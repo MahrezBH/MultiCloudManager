@@ -1,0 +1,50 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces ESPRIT logo}}{2}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces ILEF Export logo}}{3}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Flexera logo}}{4}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Cloudbolt logo}}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Cloudhealth logo}}{5}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Scrum process}}{7}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces General use case diagram}}{18}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Main dashboard page mockup}}{19}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Instance page mockup}}{20}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Storages page mockup}}{21}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ilef images page mockup}}{22}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Ilef vault page mockup}}{23}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Ilef clusters page mockup}}{24}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Physical architecture of Ilef application}}{27}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Logical architecture of Ilef application}}{28}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Manage users detailed use case diagram}}{34}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Manage users class diagram}}{35}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Sequence diagram: Authenticate}}{36}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Vault Secrets detailed use case diagram}}{37}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Ilef login page}}{37}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Ilef User registration page}}{38}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Ilef adding User page}}{39}{figure.caption.30}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Manage VM detailed use case diagram}}{41}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Sequence diagram: Create an Instance}}{42}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Manage Storage detailed use case diagram}}{43}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Sequence diagram: Upload Storage}}{44}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Ilef instances page}}{45}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Ilef storages page}}{45}{figure.caption.36}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Sprint use cases diagram}}{47}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Sequence diagram: Instantiate Container}}{48}{figure.caption.38}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Orchestrate K8S cluster detailed use case diagram}}{49}{figure.caption.40}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Ilef images page}}{50}{figure.caption.41}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Nexus server images}}{50}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Ilef User registration page}}{51}{figure.caption.43}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Sprint use cases diagram}}{53}{figure.caption.44}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Ilef login pagelef login page}}{53}{figure.caption.45}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Sequence diagram: Instantiate Container}}{55}{figure.caption.46}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Ilef data visualization page}}{56}{figure.caption.47}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Ilef Scrumboard page}}{56}{figure.caption.48}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces BPMN Diagram}}{58}{figure.caption.49}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Jenkins server interface}}{59}{figure.caption.50}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Sonar server interface}}{59}{figure.caption.51}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces GitHub Webhooks interface}}{60}{figure.caption.52}%

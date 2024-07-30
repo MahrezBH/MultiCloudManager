@@ -1,0 +1,104 @@
+\documentclass[12pt]{report}
+\usepackage{enumitem}
+\usepackage{longtable}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows, positioning}
+
+
+\usepackage{booktabs}
+
+\usepackage{titlesec}
+\usepackage{subcaption}
+\usepackage[labelformat=parens,labelsep=quad,skip=3pt]{caption}
+\setcounter{secnumdepth}{4}
+
+\usepackage[justification=centering]{caption}
+
+\usepackage{array,multirow,graphicx}
+\usepackage{bigstrut}
+
+\usepackage[most]{tcolorbox}
+
+\usepackage{amsmath}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\usepackage{fullpage}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{acronym} 
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\rightmark}
+% \lhead{\leftmark}
+% \lhead{\thechapter}
+% \lhead{\small\leftmark}
+\rfoot{\thepage}
+\renewcommand{\baselinestretch}{1.1}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.5em}
+\setlength{\headsep}{15mm}
+\usepackage{float}
+\graphicspath{{chapters/sprint1/}{chapters/sprint2/}{chapters/sprint3/}{chapters/sprint4/}{chapters/sprint5/}}
+\usepackage[T1]{fontenc}
+
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{pifont}
+\fancypagestyle{noheader}{
+  \fancyhf{}% Clear header/footer
+  \renewcommand{\headrulewidth}{0pt}% No header rule
+}
+
+\newlist{negitemize}{itemize}{1}
+\setlist[negitemize,1]{label=\ding{56}} % \ding{56} is the ✕ symbol in pifont
+
+\newlist{positemize}{itemize}{1}
+\setlist[positemize,1]{label=\ding{51}}
+
+\begin{document}
+\renewcommand\bibname{References}
+
+\pagenumbering{gobble}
+
+\include{dedication}
+% \input{acros}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\newpage
+
+\input{chapters/overview/general_intro}\thispagestyle{noheader}
+\cleardoublepage
+
+\clearpage
+\cleardoublepage% ensures that the page numbering will change on a recto page
+\pagenumbering{arabic}
+
+
+\input{chapters/overview/overview}
+% \input{chapters/state_of_the_art/state_of_the_art.tex}
+\input{chapters/preliminary_study/preliminary_study.tex}
+\input{chapters/sprint1/sprint1.tex}
+\input{chapters/sprint2/sprint2.tex}
+\input{chapters/sprint3/sprint3.tex}
+\input{chapters/sprint4/sprint4.tex}
+\input{chapters/sprint5/sprint5.tex}
+
+\renewcommand{\thepage}{}
+\include{bib}
+\input{abstract.tex}
+
+\newpage
+\end{document}

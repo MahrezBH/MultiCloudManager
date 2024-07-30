@@ -1,0 +1,104 @@
+\chapter{State of the Art}
+
+This chapter delves into the critical concepts and definitions pivotal to understanding the landscape of our project. We explore the fundamental technologies and methodologies that drive our development process, focusing on Cloud Computing, Software as a Service (SaaS), and other key areas such as software provisioning, scalability, containerization, serverless computing, and REST architecture. Each section aims to provide a comprehensive overview of these concepts, emphasizing their relevance and application within our project's framework.
+
+Additionally, we will address challenges such as vendor lock-in and discuss strategic approaches like orchestration and agile methodologies, which are essential for managing modern software projects efficiently. Through this exploration, we establish a solid foundation of knowledge that supports the advanced functionalities of our platform.
+
+\pagebreak
+
+\section{Cloud}
+Cloud computing refers to an Internet-driven approach that delivers shared computing resources and data services to various devices as required. It is designed to provide ubiquitous, on-demand access to a collection of configurable computing resources (including networks, servers, storage, applications, and services) that can be quickly allocated and deallocated with minimal management effort. These cloud services offer both individuals and businesses the ability to store and manage data in data centers that are either privately operated or owned by third parties, which could be situated locally or internationally. The concept of cloud computing depends on resource sharing to maintain consistency and cost efficiency, akin to the operation of utilities such as the electrical grid.
+
+
+\section{SaaS}
+Software as a Service (SaaS) is a cloud computing model where software applications are hosted by a third-party provider and made available to customers over the internet. Users can access these applications via a web browser, eliminating the need to install or maintain software locally on their devices. This model offers convenience, scalability, and cost-effectiveness for both individual users and organizations.
+
+\section{Software provisioning}
+Software provisioning refers to the process of preparing and equipping a computer system with necessary software applications and configurations to fulfill specific operational requirements. It involves tasks such as installation, configuration, and initial setup of software components needed to support business operations or user requirements within an IT environment.
+
+
+\section{Scalability}
+Scalability refers to the capability of a system, network,
+or process to handle a growing amount of work or its potential to be enlarged
+to accommodate that growth. It is an essential characteristic for systems that are expected to expand over time.
+Scalability can be vertical or horizontal:
+
+$\bullet$ \textbf{Vertical Scalability (Scaling Up)}: This involves adding more power (such as CPU, RAM) to an existing machine. It means enhancing the capacity of a single resource.
+
+$\bullet$ \textbf{Horizontal Scalability (Scaling Out)}: This involves adding more machines or devices to a system so that the workload and processing power are distributed across multiple units.
+
+In the context of computing and business applications, scalability ensures that the system can maintain or improve its performance and efficiency as the demand for resources or services increases. It is a critical factor in the design and architecture of applications, especially those that require handling large volumes of data or high user traffic.
+
+\section{ Containerization}
+Containerization is a lightweight form of virtualization that involves
+encapsulating an application and its dependencies into a container. 
+This container is a standardized unit of software that packages up the code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
+
+\section{Serverless computing}
+Serverless computing, also referred to as Function as a Service (FaaS), is a cloud computing model in which the cloud provider takes care of the infrastructure required to run code. This allows developers to concentrate on creating and deploying specific functions or segments of business logic without the need to manage servers or hardware.
+
+
+\section{REST architecture}
+REST, which stands for Representational State Transfer, is an architectural style used for designing networked applications. It facilitates the creation and modification of resources with ease, serving as a lightweight alternative to complex mechanisms such as RPC, CORBA, and SOAP.
+
+REST is not a formal standard but a set of guidelines for building efficient communication frameworks between two machines using the HTTP protocol. The World Wide Web, which operates over HTTP, can be seen as a prime example of a REST-based architecture. REST utilizes a stateless, client-server, cacheable communication protocol, making it simple to implement and maintain. Furthermore, it enhances scalability by supporting multiple backend services simultaneously.
+
+Similar to web services, a REST service is platform-independent and language-independent, operating over HTTP and functioning effectively even behind firewalls.
+
+There are several fundamental concepts that distinguish REST from other web services. These key principles include:
+
+$\bullet$ \textbf{Unique URL-Resource mapping}: Each resource is associated with a unique URL, providing a logical way to access specific information. 
+
+$\bullet$ \textbf{Statelessness}: All information required to process a request is included within the request itself, meaning the server does not retain any state from previous requests. This principle is derived from the stateless nature of HTTP.
+
+$\bullet$ \textbf{Action Verbs}: REST uses HTTP verbs to specify the action to be performed. The primary HTTP verbs in REST architecture are GET, POST, PUT, and DELETE. GET retrieves resources, PUT updates resources, POST creates new resources, and DELETE removes resources.
+
+$\bullet$ \textbf{Data Exchange formats}: REST does not mandate a specific data encoding format for resource bodies. Common formats include JSON \cite{json} and XML, but others like PROTOBUF and YAML are also supported.
+
+
+% \subsection{Numeric Metrics}
+% \begin{itemize}
+%     \item \textbf{Accuracy}: We report class-wise accuracy by considering True Positive (TP) as the positive reviews which were
+% correctly predicted as positive, and True Negative (TN) as those reviews which were correctly classi-
+% fied as negative. Then, False Positives (FP) and False Negatives (FN) follow intuitively. The actual
+% accuracy of the models were obtained with Equation \ref{eq1}.
+
+% \begin{equation} \label{eq1}
+% Accuracy = \frac{TP+TN}{TP+FP+TN+FN}
+% \end{equation}
+%     \item \textbf{True Positive Rate/Recall/Hit Rate/Sensitivity}: The true positive rate (TPR) measures the proportion of correctly identified actual positives (TP).
+
+% \begin{equation} \label{eq1}
+% TPR = \frac{TP}{TP+FN} = 1 - False Negative Rate
+% \end{equation}
+% \item \textbf{ False Positive Rate/Fall-Out } : The false positive rate (FPR) measures the proportion of incorrectly identified actual negatives (FP).
+% \begin{equation} \label{eq1}
+% FPR = \frac{FP}{FP+TN} = 1 - Specificity
+% \end{equation}
+
+% \end{itemize}
+
+
+
+% \subsection{Vendor lock-in}
+\section{Vendor lock-in}
+
+Vendor lock-in is a situation where a customer becomes dependent on a specific vendor for products and services,
+making it difficult to switch to another provider without incurring significant costs, inconvenience,
+or compatibility issues. This dependency can arise from various factors such as proprietary technologies,
+unique data formats, or specific software that are incompatible with other vendors' systems.
+Vendor lock-in can lead to reduced flexibility, higher costs, and increased risk for the customer,
+as they may struggle to adapt to new technologies or negotiate better terms. To mitigate vendor lock-in, organizations can adopt open standards, ensure data portability, negotiate flexible contracts, and diversify their technology stack across multiple vendors.
+
+
+\section{Orchestration}
+Orchestration in computing refers to the automated arrangement, coordination, and management of complex computer systems, middleware, and services. It involves organizing multiple automated tasks and workflows to ensure they function together seamlessly, often in cloud environments, containers, and microservices architectures. Orchestration tools streamline and simplify the deployment, scaling, and operations of applications, enabling efficient resource use, consistency, and scalability.
+
+
+
+
+% \section{Agile}
+
+\section*{Conclusion}
+In this chapter, we introduced general concepts and general approaches
+used in this project. Also, we have presented the problematic of our project and existing tools condiatate to solve it.

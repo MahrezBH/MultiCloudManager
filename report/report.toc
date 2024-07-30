@@ -1,0 +1,101 @@
+\contentsline {chapter}{\numberline {1}Overview}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}General context}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Pedagogical frame}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Professional frame}{2}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Project presentation}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Problematic}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Examination of current solutions}{4}{subsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.2.1}Flexera}{4}{subsubsection.1.2.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2.2}CloudBolt}{4}{subsubsection.1.2.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.2.3}CloudHealth}{5}{subsubsection.1.2.2.3}%
+\contentsline {subsection}{\numberline {1.2.3}The proposed solution}{5}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Methodology}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Agile Methodologies}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Scrum method}{7}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.2.1}Project team}{7}{subsubsection.1.3.2.1}%
+\contentsline {chapter}{\numberline {2}Preliminary study}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Basic concepts}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Cloud}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}SaaS}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Software provisioning}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Scalability}{10}{section.2.5}%
+\contentsline {section}{\numberline {2.6} Containerization}{11}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Serverless computing}{11}{section.2.7}%
+\contentsline {section}{\numberline {2.8}REST architecture}{11}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Vendor lock-in}{12}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Orchestration}{13}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Requirements analysis}{13}{section.2.11}%
+\contentsline {subsection}{\numberline {2.11.1}Functional Requirements}{13}{subsection.2.11.1}%
+\contentsline {subsubsection}{\numberline {2.11.1.1}Initial Setup and Configuration}{13}{subsubsection.2.11.1.1}%
+\contentsline {subsubsection}{\numberline {2.11.1.2}Core Functionalities}{14}{subsubsection.2.11.1.2}%
+\contentsline {subsubsection}{\numberline {2.11.1.3}Building Advanced Visualization Tools}{14}{subsubsection.2.11.1.3}%
+\contentsline {subsection}{\numberline {2.11.2}Non-Functional Requirements}{15}{subsection.2.11.2}%
+\contentsline {subsubsection}{\numberline {2.11.2.1}Performance}{15}{subsubsection.2.11.2.1}%
+\contentsline {subsubsection}{\numberline {2.11.2.2}Reliability}{15}{subsubsection.2.11.2.2}%
+\contentsline {subsubsection}{\numberline {2.11.2.3}Maintainability}{15}{subsubsection.2.11.2.3}%
+\contentsline {section}{\numberline {2.12}Requirement specifications}{16}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}Actors Identification}{16}{subsection.2.12.1}%
+\contentsline {subsubsection}{\numberline {2.12.1.1}User Roles}{16}{subsubsection.2.12.1.1}%
+\contentsline {paragraph}{\numberline {2.12.1.1.1}Cloud/DevOps Engineer}{16}{paragraph.2.12.1.1.1}%
+\contentsline {paragraph}{\numberline {2.12.1.1.2}Administrator}{16}{paragraph.2.12.1.1.2}%
+\contentsline {subsection}{\numberline {2.12.2}Use cases diagrams}{17}{subsection.2.12.2}%
+\contentsline {section}{\numberline {2.13}Mockups}{17}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}Penpot}{17}{subsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.13.2}Project mockups}{17}{subsection.2.13.2}%
+\contentsline {subsubsection}{\numberline {2.13.2.1}Dashboard statistics page}{17}{subsubsection.2.13.2.1}%
+\contentsline {subsubsection}{\numberline {2.13.2.2}Instances page}{19}{subsubsection.2.13.2.2}%
+\contentsline {subsubsection}{\numberline {2.13.2.3}Storages page}{19}{subsubsection.2.13.2.3}%
+\contentsline {subsubsection}{\numberline {2.13.2.4}Docker images page}{20}{subsubsection.2.13.2.4}%
+\contentsline {subsubsection}{\numberline {2.13.2.5}Vault secrets page}{21}{subsubsection.2.13.2.5}%
+\contentsline {subsubsection}{\numberline {2.13.2.6}Cluster page}{22}{subsubsection.2.13.2.6}%
+\contentsline {section}{\numberline {2.14}Product Backlog}{23}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Sprint Planning}{25}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Logical and Physical Architecture}{27}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Used technologies}{28}{section.2.17}%
+\contentsline {subsection}{\numberline {2.17.1}Programming languages}{28}{subsection.2.17.1}%
+\contentsline {subsubsection}{\numberline {2.17.1.1}Python}{28}{subsubsection.2.17.1.1}%
+\contentsline {subsubsection}{\numberline {2.17.1.2}TypeScript}{29}{subsubsection.2.17.1.2}%
+\contentsline {subsection}{\numberline {2.17.2}Frameworks}{29}{subsection.2.17.2}%
+\contentsline {subsubsection}{\numberline {2.17.2.1}Angular}{29}{subsubsection.2.17.2.1}%
+\contentsline {subsubsection}{\numberline {2.17.2.2}Django}{29}{subsubsection.2.17.2.2}%
+\contentsline {subsection}{\numberline {2.17.3}Cloud services and tools}{29}{subsection.2.17.3}%
+\contentsline {subsubsection}{\numberline {2.17.3.1}AWS}{29}{subsubsection.2.17.3.1}%
+\contentsline {subsubsection}{\numberline {2.17.3.2}Google Cloud platform}{30}{subsubsection.2.17.3.2}%
+\contentsline {subsubsection}{\numberline {2.17.3.3}Microsoft Azure}{30}{subsubsection.2.17.3.3}%
+\contentsline {subsubsection}{\numberline {2.17.3.4}Hetzner}{30}{subsubsection.2.17.3.4}%
+\contentsline {subsubsection}{\numberline {2.17.3.5}Jenkins}{30}{subsubsection.2.17.3.5}%
+\contentsline {subsubsection}{\numberline {2.17.3.6}Ansible}{30}{subsubsection.2.17.3.6}%
+\contentsline {subsubsection}{\numberline {2.17.3.7}Glitchtip}{31}{subsubsection.2.17.3.7}%
+\contentsline {subsubsection}{\numberline {2.17.3.8}HashiCorp Vault}{31}{subsubsection.2.17.3.8}%
+\contentsline {subsubsection}{\numberline {2.17.3.9}Nexus Repository}{31}{subsubsection.2.17.3.9}%
+\contentsline {subsubsection}{\numberline {2.17.3.10}SonarQube}{31}{subsubsection.2.17.3.10}%
+\contentsline {chapter}{\numberline {3}Sprint 1: User management}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Analysis of Sprint 1 Requirements}{34}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Use case diagram of "Manage users"}{34}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Class diagram of "Manage users"}{35}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Sequence diagram of "Authenticate" use case}{35}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Use case diagram of "Manage Vault Secrets"}{36}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Interfaces}{37}{subsection.3.1.5}%
+\contentsline {chapter}{\numberline {4}Sprint 2: Computing \& Storages management}{40}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Analysis of Sprint 2 Requirements}{40}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Use case diagram of "Manage VM"}{40}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Sequence diagram of "Create Instance" use case}{41}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Use case diagram of "Manage Vault Secrets"}{41}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Sequence diagram of "Upload Storage" use case}{42}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Interfaces}{43}{subsection.4.1.5}%
+\contentsline {chapter}{\numberline {5}Sprint 3: Container management}{46}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Analysis of Sprint 3 Requirements}{47}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Use cases diagram of Sprint 3}{47}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Sequence diagram of "Instantiate Container" use case}{48}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Use case diagram of "Create Cluster"}{48}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Interfaces}{49}{subsection.5.1.4}%
+\contentsline {chapter}{\numberline {6}Sprint 4: Data visualization \& projects management}{52}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Analysis of Sprint 4 Requirements}{53}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Use cases diagram of Sprint 4}{53}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Interfaces}{53}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Sequence diagram of "Visualize Statistical Data" use case}{54}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Interfaces}{54}{subsection.6.1.4}%
+\contentsline {chapter}{\numberline {7}Sprint 5: Implementing CI/CD}{57}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Analysis of Sprint 5 Requirements}{58}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}BPMN Diagram for our CI/CD Pipeline}{58}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Interfaces}{58}{subsection.7.1.2}%
