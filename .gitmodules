@@ -9,3 +9,7 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/MahrezBH/mcm-frontend.git
+
+[submodule "report"]
+	path = report
+	url = https://github.com/MahrezBH/mcm-report.git
